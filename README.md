@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mainak Das</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 📫 How to reach me **mainak.lnmiit@gmail.com**
+- 📫 How to reach me **mainak.lnmiit@gmail.com** or **23ucc569@lnmiit.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/107sCrH4wZDVeF-xV5NGu6ayjgWb9mhoj/view?usp=sharing](https://drive.google.com/file/d/107sCrH4wZDVeF-xV5NGu6ayjgWb9mhoj/view?usp=sharing)
 
